@@ -1,7 +1,3 @@
-[![Code Ocean Logo](images/CO_logo_135x72.png)](http://codeocean.com/product)
-
-<hr>
-
 # Mark or Remove Optical and PCR Duplicates in Illumina data using Sambamba
 
 This capsule requires alignment files in bam format. Sambamba can filter out poor mapping quality, duplicates, secondary/multimapped and unmapped reads from your alignment file. It will return your processed bam file to the results folder.
@@ -52,8 +48,3 @@ https://github.com/biod/sambamba
 ## Cite
 
 ```A. Tarasov, A. J. Vilella, E. Cuppen, I. J. Nijman, and P. Prins. Sambamba: fast processing of NGS alignment formats. Bioinformatics, 2015.```
-
-<hr>
-
-[Code Ocean](https://codeocean.com/) is a cloud-based computational platform that aims to make it easy for researchers to share, discover, and run code.<br /><br />
-[![Code Ocean Logo](images/CO_logo_68x36.png)](https://www.codeocean.com)
